@@ -1,0 +1,27 @@
+COUNTRY,ISO CODE,TIME PERIOD,REMOVAL REQUESTS (COURT ORDERS),"REMOVAL REQUESTS (GOV’T AGENCY, POLICE, OTHER)",PERCENTAGE WHERE SOME CONTENT WITHHELD,ACCOUNTS SPECIFIED,ACCOUNTS WITHHELD,TWEETS WITHHELD,ACCOUNTS (TOS),ACCOUNTS (NO ACTION),FLAGS,LINKS,REPORT LINKS
+Australia,AU,July - December 2013,-,-,-,-,-,-,,,/content/dam/transparency-twitter/flags/1x1/au.svg,/en/countries/au.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Brazil,BR,July - December 2013,11,1,33%,50,2,26,,,/content/dam/transparency-twitter/flags/1x1/br.svg,/en/countries/br.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Canada,CA,July - December 2013,-,-,-,-,-,-,,,/content/dam/transparency-twitter/flags/1x1/ca.svg,/en/countries/ca.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Ecuador,EC,July - December 2013,-,-,-,-,-,-,,,/content/dam/transparency-twitter/flags/1x1/ec.svg,/en/countries/ec.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+France,FR,July - December 2013,3,306,35%,146,0,133,,,/content/dam/transparency-twitter/flags/1x1/fr.svg,/en/countries/fr.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Germany,DE,July - December 2013,1,1,0%,1,0,0,,,/content/dam/transparency-twitter/flags/1x1/de.svg,/en/countries/de.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Greece,GR,July - December 2013,0,2,0%,3,0,0,,,/content/dam/transparency-twitter/flags/1x1/gr.svg,/en/countries/gr.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Hong Kong,HK,July - December 2013,0,1,0%,1,0,0,,,/content/dam/transparency-twitter/flags/1x1/hk.svg,/en/countries/hk.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+India,IN,July - December 2013,2,6,13%,54,0,13,,,/content/dam/transparency-twitter/flags/1x1/in.svg,/en/countries/in.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Indonesia,ID,July - December 2013,-,-,-,-,-,-,,,/content/dam/transparency-twitter/flags/1x1/id.svg,/en/countries/id.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Ireland,IE,July - December 2013,0,1,0%,1,0,0,,,/content/dam/transparency-twitter/flags/1x1/ie.svg,/en/countries/ie.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Italy,IT,July - December 2013,0,1,0%,1,0,0,,,/content/dam/transparency-twitter/flags/1x1/it.svg,/en/countries/it.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Japan,JP,July - December 2013,1,1,50%,1,0,10,,,/content/dam/transparency-twitter/flags/1x1/jp.svg,/en/countries/jp.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Kuwait,KW,July - December 2013,0,2,0%,3,0,0,,,/content/dam/transparency-twitter/flags/1x1/kw.svg,/en/countries/kw.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Mexico,MX,July - December 2013,0,1,0%,2,0,0,,,/content/dam/transparency-twitter/flags/1x1/mx.svg,/en/countries/mx.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Netherlands,NL,July - December 2013,-,-,-,-,-,-,,,/content/dam/transparency-twitter/flags/1x1/nl.svg,/en/countries/nl.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Pakistan,PK,July - December 2013,-,-,-,-,-,-,,,/content/dam/transparency-twitter/flags/1x1/pk.svg,/en/countries/pk.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Russia,RU,July - December 2013,0,14,64%,14,1,9,,,/content/dam/transparency-twitter/flags/1x1/ru.svg,/en/countries/ru.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+South Korea,KR,July - December 2013,-,-,-,-,-,-,,,/content/dam/transparency-twitter/flags/1x1/kr.svg,/en/countries/kr.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Spain,ES,July - December 2013,-,-,-,-,-,-,,,/content/dam/transparency-twitter/flags/1x1/es.svg,/en/countries/es.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Turkey,TR,July - December 2013,2,0,0%,2,0,0,,,/content/dam/transparency-twitter/flags/1x1/tr.svg,/en/countries/tr.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+United Arab Emirates,AE,July - December 2013,1,1,0%,5,0,0,,,/content/dam/transparency-twitter/flags/1x1/ae.svg,/en/countries/ae.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+United Kingdom,GB,July - December 2013,1,8,0%,9,0,0,,,/content/dam/transparency-twitter/flags/1x1/gb.svg,/en/countries/gb.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+United States,US,July - December 2013,2,6,0%,11,0,0,,,/content/dam/transparency-twitter/flags/1x1/us.svg,/en/countries/us.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+Venezuela,VE,July - December 2013,0,1,0%,13,0,0,,,/content/dam/transparency-twitter/flags/1x1/ve.svg,/en/countries/ve.html,/en/removal-requests.html#removal-requests-jul-dec-2013
+TOTAL,,,24,353,11%,317,3,191,,,,,

@@ -1,0 +1,7 @@
+COUNTRY,ISO CODE,TIME PERIOD,REMOVAL REQUESTS (COURT ORDERS),"REMOVAL REQUESTS (GOV’T AGENCY, POLICE, OTHER)",PERCENTAGE WHERE SOME CONTENT WITHHELD,ACCOUNTS SPECIFIED,ACCOUNTS WITHHELD,TWEETS WITHHELD,ACCOUNTS (TOS),ACCOUNTS (NO ACTION),FLAGS,LINKS,REPORT LINKS
+France,FR,January - June 2012,0,1,0%,2,,,,,/content/dam/transparency-twitter/flags/1x1/fr.svg,/en/countries/fr.html,/en/removal-requests.html#removal-requests-jan-jun-2012
+Greece,GR,January - June 2012,2,0,0%,2,,,,,/content/dam/transparency-twitter/flags/1x1/gr.svg,/en/countries/gr.html,/en/removal-requests.html#removal-requests-jan-jun-2012
+Pakistan,PK,January - June 2012,0,1,0%,1,,,,,/content/dam/transparency-twitter/flags/1x1/pk.svg,/en/countries/pk.html,/en/removal-requests.html#removal-requests-jan-jun-2012
+Turkey,TR,January - June 2012,1,0,0%,7,,,,,/content/dam/transparency-twitter/flags/1x1/tr.svg,/en/countries/tr.html,/en/removal-requests.html#removal-requests-jan-jun-2012
+United Kingdom,GB,January - June 2012,0,1,0%,6,,,,,/content/dam/transparency-twitter/flags/1x1/gb.svg,/en/countries/gb.html,/en/removal-requests.html#removal-requests-jan-jun-2012
+TOTAL,,,3,3,0%,18,,,,,,,

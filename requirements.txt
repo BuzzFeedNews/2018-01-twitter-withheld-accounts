@@ -1,0 +1,4 @@
+ipykernel==4.6.1
+jupyter==1.0.0
+pandas==0.22.0
+seaborn==0.7.0
