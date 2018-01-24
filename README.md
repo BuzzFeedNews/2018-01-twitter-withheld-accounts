@@ -42,7 +42,7 @@ The `withheld_category` field in the `withheld-accounts.csv` file can be one of 
 This repository contains two analysis notebooks, both written in Python:
 
 - [`notebooks/analyze-withheld-accounts.ipynb`](notebooks/analyze-withheld-accounts.ipynb), which focuses on the data collected from Twitter's API.
-- [`notebooks/analyze-transparency-reports.ipynb`](notebooks/analyze-transparency-reports.ipynb), which focuses on the data collected from Twitter's transparency reports.
+- [`notebooks/analyze-twitter-transparency-reports.ipynb`](notebooks/analyze-twitter-transparency-reports.ipynb), which focuses on the data collected from Twitter's transparency reports.
 
 # Reproducibility
 
